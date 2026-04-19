@@ -1,0 +1,21 @@
+{
+	"users":	[{
+			"name":	"ADMIN",
+			"score":	999
+		}, {
+			"name":	"Kassandra",
+			"score":	17
+		}, {
+			"name":	"Angele",
+			"score":	81
+		}, {
+			"name":	"Mathias",
+			"score":	18
+		}, {
+			"name":	"Allan",
+			"score":	22
+		}, {
+			"name":	"Martin",
+			"score":	0
+		}]
+}

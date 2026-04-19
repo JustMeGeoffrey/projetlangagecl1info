@@ -1,0 +1,80 @@
+# depslib dependency file v1.0
+1774949453 source:c:\users\120785\projetc\projet_c_2026\main.c
+	<stdio.h>
+	"include/exercices.h"
+	"include/gestionCompte.h"
+
+1774344294 c:\users\120785\projetc\projet_c_2026\exercices.h
+
+1774344306 source:c:\users\120785\projetc\projet_c_2026\exercices.c
+	"exercices.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1774347679 c:\users\120785\projetc\projet_c_2026\gestioncompte.h
+
+1774346443 source:c:\users\120785\projetc\projet_c_2026\cjson.c
+	<string.h>
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<limits.h>
+	<ctype.h>
+	<float.h>
+	<locale.h>
+	"cJSON.h"
+
+1774346411 c:\users\120785\projetc\projet_c_2026\cjson.h
+	<stddef.h>
+
+1774349540 source:c:\users\120785\projetc\projet_c_2026\gestioncompte.c
+	<stdio.h>
+	<stdlib.h>
+	"cJSON.h"
+	"gestionCompte.h"
+
+1774949419 source:c:\users\120785\projetc\projet_c_2026\src\exercices.c
+	"../include/exercices.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1774951356 c:\users\120785\projetc\projet_c_2026\include\exercices.h
+
+1774948368 c:\users\120785\projetc\projet_c_2026\include\gestioncompte.h
+
+1774948782 source:c:\users\120785\projetc\projet_c_2026\src\gestioncompte.c
+	<stdio.h>
+	<stdlib.h>
+	"../include/cJSON.h"
+	"../include/gestionCompte.h"
+
+1774350011 c:\users\120785\projetc\projet_c_2026\include\cjson.h
+	<stddef.h>
+
+1774946320 source:c:\users\120785\projetc\projet_c_2026\src\cjson.c
+	<string.h>
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<limits.h>
+	<ctype.h>
+	<float.h>
+	<locale.h>
+	"../include/cJSON.h"
+
+1774946320 source:c:\users\geoff\desktop\univ l1 info\c\projet_c_2026\src\cjson.c
+	<string.h>
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<limits.h>
+	<ctype.h>
+	<float.h>
+	<locale.h>
+	"../include/cJSON.h"
+
+1774346411 c:\users\geoff\desktop\univ l1 info\c\projet_c_2026\include\cjson.h
+	<stddef.h>
+
